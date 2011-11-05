@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = PerVersion::VERSION
   s.authors     = ["Bodacious"]
   s.email       = ["gavin@gavinmorrice.com"]
-  s.homepage    = "TODO"
+  s.homepage    = "https://github.com/Bodacious/per-version"
   s.summary     = "Simple rake tasks for managing git version tags"
   s.description = "Simple rake tasks for managing app version with git version tags."
 
