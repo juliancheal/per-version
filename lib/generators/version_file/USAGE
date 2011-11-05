@@ -1,0 +1,8 @@
+Description:
+    Creates a VERSION text file in the application root. Used by per-version.
+
+Example:
+    rails generate version_file
+
+    This will create:
+        MyApp/VERSION
