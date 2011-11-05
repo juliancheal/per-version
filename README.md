@@ -35,6 +35,6 @@ So you've added a bunch of awesome features and want to launch a new version.
 3. `git commit -am "Updated version for new release"`
 4. `rake version:release`
 
-Questions and suggestions welcome [Gavin Morrice]("mailto:gavin@gavinmorice.com")
+Questions and suggestions welcome [Gavin Morrice]("http://gavinmorrice.com")
 
 This project rocks and uses MIT-LICENSE.
