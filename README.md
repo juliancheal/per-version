@@ -35,6 +35,10 @@ So you've added a bunch of awesome features and want to launch a new version.
 3. `git commit -am "Updated version for new release"`
 4. `rake version:release`
 
+# Versioning
+
+Make sure you're up-to-date on [Semantic Versioning](http://semver.org/)
+
 Questions and suggestions welcome [Gavin Morrice]("http://gavinmorrice.com")
 
 This project rocks and uses MIT-LICENSE.
