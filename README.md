@@ -39,8 +39,6 @@ So you've added a bunch of awesome features and want to launch a new version.
 
 Make sure you're up-to-date on [Semantic Versioning](http://semver.org/)
 
-Questions and suggestions welcome [Gavin Morrice]("http://gavinmorrice.com")
-
 This project rocks and uses MIT-LICENSE.
 
 ## About Katana Code
