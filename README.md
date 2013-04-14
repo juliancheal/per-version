@@ -42,3 +42,7 @@ Make sure you're up-to-date on [Semantic Versioning](http://semver.org/)
 Questions and suggestions welcome [Gavin Morrice]("http://gavinmorrice.com")
 
 This project rocks and uses MIT-LICENSE.
+
+## About Katana Code
+
+Katana Code are [iPhone app and Ruby on Rails Developers in Edinburgh, Scotland](http://katanacode.com/ "Katana Code").
